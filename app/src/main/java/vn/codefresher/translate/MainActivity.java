@@ -25,6 +25,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(context, context.getString(R.string.welcome_text), Toast.LENGTH_LONG)
                         .show();
             }
-        }, 3000);
+        }, 5000);
     }
 }
